@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FrinshExamsApp</string>
+    <string name="lessons_TV">Les leçons</string>
+    <string name="lesson_name_TV">lesson name</string>
+    <string name="home_title">page principale</string>
+    <string name="try_exam">Examen Provisoire</string>
+    <string name="random_exam">Examen principal</string>
+    <string name="lesson_exams_title">Examens</string>
+    <string name="code_notation">veuillez entrer le mot de passe de la leçon</string>
+    <string name="choise_question">I I I- Choisis la bonne réponse:</string>
+    <string name="next">suivant</string>
+    <string name="prev">précédent</string>
+    <string name="exam">Examen</string>
+    <string name="enter">entrer</string>
+    <string name="cancel">finir</string>
+    <string name="result">résultat</string>
+    <string name="success">congratulations</string>
+    <string name="failed">Dépôt</string>
+    <string name="review_result">Revoir le résultat</string>
+    <string name="correction">La bonne réponse</string>
+
+</resources>
