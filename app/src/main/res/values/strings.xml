@@ -19,4 +19,13 @@
     <string name="review_result">Revoir le résultat</string>
     <string name="correction">La bonne réponse</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="document">document</string>
+    <string name="situations">situations</string>
+    <string name="choose">Choisis</string>
+    <string name="email">Email</string>
+    <string name="subject">sujet</string>
+    <string name="_03_00">03:00</string>
+
 </resources>
